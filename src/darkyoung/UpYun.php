@@ -1,4 +1,5 @@
 <?php
+namespace darkyoung;
 
 class UpYunException extends Exception
 { /*{{{*/

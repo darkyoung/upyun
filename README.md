@@ -7,6 +7,12 @@ I'll reference it as just `composer`)
 
 ```json
 {
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/darkyoung/upyun"
+        }
+    ],
     "require": {
         "darkyoung/upyun": "dev-master"
     }

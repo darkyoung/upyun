@@ -1,7 +1,7 @@
 <?php
 namespace darkyoung;
 
-class UpYunException extends Exception
+class UpYunException extends \Exception
 { /*{{{*/
     public function __construct($message, $code, Exception $previous = null)
     {

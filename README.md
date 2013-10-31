@@ -8,7 +8,7 @@ I'll reference it as just `composer`)
 ```json
 {
     "require": {
-        "filp/whoops": "1.*"
+        "darkyoung/upyun": "dev-master"
     }
 }
 ```

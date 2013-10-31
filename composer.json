@@ -1,0 +1,20 @@
+{
+    "name": "darkyoung/upyun",
+    "description": "SDK for UpYun",
+    "version": "0.1.0",
+	"keywords": ["upyun"],
+    "license": "MIT",
+    "homepage": "https://github.com/darkyoung/upyun",
+    "authors": [
+        {
+            "name": "Sean Wu",
+            "email": "darkyoung@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {"UpYun": "src/"}
+    }
+}
